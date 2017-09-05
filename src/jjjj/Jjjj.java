@@ -14,8 +14,12 @@ public class Jjjj {
     /**
      * @param args the command line arguments
      */
+     public static void cottrellWasHere(){
+     System.out.println("Cottrell was here");
+ }
     public static void main(String[] args) {
         // TODO code application logic here
+        cottrellWasHere();
     }
     
 }
